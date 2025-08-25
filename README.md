@@ -1,5 +1,4 @@
-<p align="center">
-  <a href="README.md">🇬🇧 English</a> |
+<p align="right">
   <a href="README.fa.md">🇮🇷 فارسی</a>
 </p>
 # DNS Switcher (Windows) – Portable Tkinter App
