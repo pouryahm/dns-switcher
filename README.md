@@ -10,7 +10,6 @@
 [![Download latest](https://img.shields.io/github/v/release/pouryahm/dns-switcher?display_name=tag&sort=semver)](https://github.com/pouryahm/dns-switcher/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-2ea44f)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 A lightweight, portable GUI app (Tkinter) to quickly switch DNS servers on Windows. Choose from built‑in profiles (Cloudflare, Google, Quad9, OpenDNS) or add your own via a local `dns_profiles.json`. Apply to all active network adapters or selected ones, and revert to default (DHCP) with one click.
 
