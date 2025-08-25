@@ -10,7 +10,6 @@
 [![Download latest](https://img.shields.io/github/v/release/pouryahm/dns-switcher?display_name=tag&sort=semver)](https://github.com/pouryahm/dns-switcher/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-2ea44f)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 یک اپ سبک و پرتابل برای ویندوز (Tkinter) که به شما اجازه می‌دهد DNS سیستم را سریع عوض کنید. پروفایل‌های آماده (Cloudflare، Google، Quad9، OpenDNS) دارد و می‌توانید با فایل محلی `dns_profiles.json` پروفایل‌های دلخواه‌تان را اضافه کنید. امکان اعمال روی همه آداپتورهای فعال یا آداپتورهای انتخابی وجود دارد و با یک کلیک می‌توانید به حالت پیش‌فرض (DHCP) برگردید.
 
