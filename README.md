@@ -2,7 +2,9 @@
   <a href="README.fa.md">🇮🇷 فارسی</a>
 </p>
 # DNS Switcher (Windows) – Portable Tkinter App
-
+![Build](https://github.com/pouryahm/dns-switcher/actions/workflows/build.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Download latest](https://img.shields.io/github/v/release/pouryahm/dns-switcher?display_name=tag&sort=semver)](https://github.com/pouryahm/dns-switcher/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-2ea44f)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
