@@ -1,3 +1,6 @@
+<p align="ًright">
+  <a href="README.md">🇬🇧 English</a> |
+</p>
 # DNS Switcher (Windows) – اپ پرتابل Tkinter
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
