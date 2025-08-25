@@ -1,5 +1,5 @@
-<p align="ًright">
-  <a href="README.md">🇬🇧 English</a> |
+<p align="right">
+  <a href="README.md">🇬🇧 English</a> 
 </p>
 # DNS Switcher (Windows) – اپ پرتابل Tkinter
 
